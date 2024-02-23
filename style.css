@@ -5,7 +5,7 @@
     --cor-de-fundo: #00ff40;
 }
 body{
-    background-color: var(--cor-de-fundo);
+    background: linear-gradient(to right, skyblue, dodgerblue);
     color: var(--branco);
     font-family: 'Chakra Petch', 'Sans-Serif';
 }
