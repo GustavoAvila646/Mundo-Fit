@@ -5,7 +5,7 @@
     --cor-de-fundo: #00ff40;
 }
 body{
-    background: linear-gradient(to right, rgb(39, 187, 71), rgb(25, 182, 72));
+    background: linear-gradient(to right, rgb(39, 187, 71), rgb(15, 148, 55));
     color: var(--branco);
     font-family: 'Chakra Petch', 'Sans-Serif';
 }
