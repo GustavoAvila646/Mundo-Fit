@@ -2,7 +2,7 @@
 
 :root{
     --branco: #FFFFFF;
-    --cor-de-fundo: #2bc903f5;
+    --cor-de-fundo: #00FA9A;
 }
 body{
     background-color: var(--cor-de-fundo);
