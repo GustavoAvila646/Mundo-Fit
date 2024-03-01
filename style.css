@@ -3,6 +3,7 @@
 :root{
     --branco: #ffffff;
     --cor-de-fundo: #00ff40;
+    --vermelho: #ff0000;
 }
 body{
     background: linear-gradient(to right, #b4e391, #61c419, #b4e391 );
@@ -28,4 +29,42 @@ body{
 
 .titulo-principal span{
     color: var(--branco);
+}
+
+.botao{
+    font-family: 'Chakra Petch', Sans-Serif;
+    background-color: var(--vermelho);
+    color: var(--branco);
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    font-size: 18px;
+    align-items: center;
+    width: 100%;
+    border-bottom: 4px solid var(--vermelho);
+    border-left: 2px solid var(--vermelho);
+    border-right: 2px solid var(--vermelho);
+    border-top: none;
+}
+
+.botao:first-child{
+    border-radius: 40px 40px 0 0;
+}
+
+.botoes{
+    display: block;
+}
+
+@media screen and (min-width: 768px){
+    .botoes{
+        display: flex;
+    }
+
+    .botao:first-child{
+        border-radius: 40px 0 0 0;
+    }
+
+    .botao:last-child{
+        border-radius: 0 40px 0 0;
+    }
 }
