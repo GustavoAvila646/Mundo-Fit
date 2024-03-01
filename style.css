@@ -3,9 +3,9 @@
 :root{
     --branco: #ffffff;
     --preto: #000000;
-    --cor-de-fundo: #00ff40;
     --verde: #073a07;
     --borda: #ccc917;
+    --cor-de-fundo: #00ff40;
 }
 
 body{
@@ -37,7 +37,7 @@ body{
 .botao{
     font-family: 'Chakra Petch', Sans-Serif;
     background-color: var(--verde);
-    color: var(--preto);
+    color: var(--branco);
     display: flex;
     justify-content: center;
     padding: 1em;
