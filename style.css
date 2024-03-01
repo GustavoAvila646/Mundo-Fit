@@ -3,7 +3,7 @@
 :root{
     --branco: #ffffff;
     --cor-de-fundo: #00ff40;
-    --vermelho: #ff0000;
+    --vermelho: #17531c;
 }
 body{
     background: linear-gradient(to right, #b4e391, #61c419, #b4e391 );
