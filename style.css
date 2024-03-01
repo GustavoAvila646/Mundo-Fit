@@ -45,8 +45,8 @@ body{
     align-items: center;
     width: 100%;
     border-bottom: 4px solid var(--preto);
-    border-left: 2px solid var(--vermelho);
-    border-right: 2px solid var(--vermelho);
+    border-left: 2px solid var(--preto);
+    border-right: 2px solid var(--preto);
     border-top: none;
 }
 
