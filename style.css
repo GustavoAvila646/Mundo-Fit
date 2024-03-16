@@ -4,7 +4,7 @@
     --branco: #ffffff;
     --preto: #000000;
     --verde: #033603;
-    --borda: #ccc917;
+    --borda: #d36f12;
     --botao-ativo: #309e30e0;
     --cor-de-fundo: #004e00;
 }
@@ -61,7 +61,7 @@ body{
 
 .ativo{
     background-color: var(--botao-ativo);
-    border-bottom: 4px solid var(--verde);
+    border-bottom: 4px solid var(--borda);
 }
 
 @media screen and (min-width: 768px){
