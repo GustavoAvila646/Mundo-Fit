@@ -3,13 +3,13 @@
 :root{
     --branco: #ffffff;
     --preto: #000000;
-    --verde: #073a07;
+    --verde: #006400;
     --borda: #ccc917;
-    --cor-de-fundo: #00ff40;
+    --cor-de-fundo: #004e00;
 }
 
 body{
-    background: linear-gradient(to right, #b4e391, #61c419, #b4e391 );
+    background: linear-gradient(to right, #007c00, #005500, #007c00 );
     color: var(--branco);
     font-family: 'Chakra Petch', 'Sans-Serif';
 }
