@@ -26,7 +26,7 @@ body{
     width: 25%;
     padding-left: 50px;
 }
-.tenis{
+.Introducao{
     background-image: linear-gradient(#d115b3, #3222ef);
     color: #FFFFFF;
     display: flex;
@@ -35,13 +35,13 @@ body{
     padding: 7px 0;
     text-align: justify;
 }
-.div-tenis{
+.div-introducao{
     width: 35% ;
 }
-.titulo-tenis{
+.titulo-introducao{
     padding: 24px 0;
 }
-.tenis-texto-um{
+.introducao-texto-um{
     padding: 16px 0;
 }
 .tenis-texto-dois{
